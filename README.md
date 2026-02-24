@@ -1,12 +1,12 @@
 # React-js-loader
 
-## [demo page](https://amurkhoyetsyan.github.io/smart-loaders/)
+## [demo page](https://AmurikKhoyetsyan.github.io/smart-loaders/)
 
 ### Install
 
     npm i react-js-loader
 
-<img src="https://raw.githubusercontent.com/AmurKhoyetsyan/react-js-loader/master/img/loader.gif" alt="loader" />
+<img src="https://raw.githubusercontent.com/AmurikKhoyetsyan/react-js-loader/master/img/loader.gif" alt="loader" />
 
 <br />
 
