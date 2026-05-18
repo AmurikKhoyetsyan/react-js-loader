@@ -14,49 +14,48 @@
 
 props
 
-| Name                | Type               |
-| ------------------- | ------------------ |
-| type                | String             |
-| bgColor             | String             |
-| color               | String             |
-| title               | String             |
-| size                | Integer            |
-| LICENSE             | [LICENSE](LICENSE) |
+| Name    | Type               |
+|---------|--------------------|
+| type    | String             |
+| bgColor | String             |
+| color   | String             |
+| title   | String             |
+| size    | Integer            |
+| LICENSE | [LICENSE](LICENSE) |
 
 <br />
 
-| Types Color          | Types    | Value Example                   |
-| -------------------- | -------- | ------------------------------- |
-| rgb                  | String   | rgb(0, 0, 0) or rgb(0%, 0%, 0%) |
-| hex                  | String   | #000000 or #000                 |
-| hsl                  | String   | hsl(0deg 0% 0%)                 |
-| name                 | String   | black                           |
+| Types Color | Types  | Value Example                   |
+|-------------|--------|---------------------------------|
+| rgb         | String | rgb(0, 0, 0) or rgb(0%, 0%, 0%) |
+| hex         | String | #000000 or #000                 |
+| hsl         | String | hsl(0deg 0% 0%)                 |
+| name        | String | black                           |
 
 <br/>
 
-| Types               |
-| ------------------- |
-| box-rotate-x        |
-| box-rotate-y        |
-| box-rotate-z        |
-| box-rectangular     |
-| ping-cube           |
-| heart               |
-| bubble-scale        |
-| bubble-top          |
-| bubble-ping         |
-| bubble-spin         |
-| spinner-cub         |
-| spinner-circle      |
-| spinner-default     |
-| ekvalayzer          |
-| hourglass           |
-| rectangular-ping    |
+| Types            |
+|------------------|
+| box-rotate-x     |
+| box-rotate-y     |
+| box-rotate-z     |
+| box-rectangular  |
+| ping-cube        |
+| heart            |
+| bubble-scale     |
+| bubble-top       |
+| bubble-ping      |
+| bubble-spin      |
+| spinner-cub      |
+| spinner-circle   |
+| spinner-default  |
+| ekvalayzer       |
+| hourglass        |
+| rectangular-ping |
 
 <br />
 
     color and bgColor = rgb or hex
-
 
 ### Example
 
